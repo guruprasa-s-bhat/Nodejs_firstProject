@@ -1,0 +1,1 @@
+Node. js is very efficient with real-time applications, as it facilitates handling multiple client requests, enables sharing and reusing packages of library code, and the data sync between the client and server happens very fast. Some examples of projects that are well-suited to the use of Node.
